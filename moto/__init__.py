@@ -34,6 +34,7 @@ from .iotdata import mock_iotdata  # noqa
 from .kinesis import mock_kinesis, mock_kinesis_deprecated  # noqa
 from .kms import mock_kms, mock_kms_deprecated  # noqa
 from .logs import mock_logs, mock_logs_deprecated  # noqa
+from .meteringmarketplace import mock_meteringmarketplace  # noqa
 from .opsworks import mock_opsworks, mock_opsworks_deprecated  # noqa
 from .organizations import mock_organizations  # noqa
 from .polly import mock_polly  # noqa
